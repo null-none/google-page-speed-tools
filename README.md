@@ -1,4 +1,4 @@
-# Google Page Speed Tools
+# Page Speed Tools
 
 Name | Description | Link |
 |---|---|---|
